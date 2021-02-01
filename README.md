@@ -1,1 +1,1 @@
-# box-model-of-angry-birds
+# Box Class
